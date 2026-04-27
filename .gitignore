@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Custom ignore untuk proyek deteksi kanker
+*.pt
+*.pth
+Dataset/
+cnn/processed_dataset/
+yolo/dataset/
+runs/
+hasil/
+test1.jpg
+test2.jpg
