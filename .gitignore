@@ -219,8 +219,6 @@ __marimo__/
 
 
 # Custom ignore untuk proyek deteksi kanker
-*.pt
-*.pth
 Dataset/
 cnn/processed_dataset/
 yolo/dataset/
